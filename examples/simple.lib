@@ -1,0 +1,6 @@
+# type   delay_ns
+INV      0.10
+NAND2    0.15
+AND2     0.20
+OR2      0.25
+XOR2     0.30
