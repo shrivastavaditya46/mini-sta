@@ -311,9 +311,7 @@ This is a learning-scale tool. It is **not** a replacement for production STA, a
 
 ---
 
-## What I learned
 
-`[TODO: write this at the end, in your own words. Two or three honest sentences, for example what surprised you about reconvergent paths, how the predecessor pointers made path extraction trivial, or a bug that taught you something.]`
 
 ---
 
